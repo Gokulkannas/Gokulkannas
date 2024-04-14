@@ -1,4 +1,9 @@
-# Gokul Kanna S
+<h1 align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Everyone!+👋;+Myself+Gokul Kanna!;&center=true&size=30">
+  </a>
+</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GokulKanna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokul-kanna/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokulkannas-black?style=flat-square&logo=github)](https://github.com/Gokulkannas)

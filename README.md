@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 
 - GitHub : [github.com/Gokulkannas](https://github.com/Gokulkannas)
 - LinkedIn : [linkedin.com/in/gokul-kanna](https://www.linkedin.com/in/gokul-kanna/)
-- Email : aravinths911@gmail.com
+- Email : kannagokul83@gmail.com
 
 ## Contributions and Collaboration
 

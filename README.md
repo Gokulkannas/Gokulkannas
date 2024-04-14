@@ -1,7 +1,7 @@
 # Aravinth Subramanian
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AravinthSubramanian-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokul-kanna/)
-[![GitHub](https://img.shields.io/badge/GitHub-aravinths479-black?style=flat-square&logo=github)](https://github.com/Gokulkannas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GokulKanna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokul-kanna/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gokulkannas-black?style=flat-square&logo=github)](https://github.com/Gokulkannas)
 
 ## About Me
 

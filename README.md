@@ -1,16 +1,17 @@
 <h1 align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Everyone!+👋;+Myself+Gokul Kanna!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Everyone!🤝+;+Myself+GokulKanna!;&center=true&size=30">
   </a>
 </h1>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GokulKanna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokul-kanna/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokulkannas-black?style=flat-square&logo=github)](https://github.com/Gokulkannas)
 
 ## About Me
 
-Hello! 👋 I'm Gokul Kanna, a passionate developer with experience in web development and full-stack MEAN (MongoDB, Express, Angular, Node.js) development.
+Hello! ✌️✌️ I'm Gokul Kanna, a passionate developer with experience in web development and full-stack MEAN (MongoDB, Express, Angular, Node.js) development.
 
 ## LeetCode Profile
 

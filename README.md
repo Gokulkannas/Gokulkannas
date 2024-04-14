@@ -6,8 +6,17 @@
 </h1>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GokulKanna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokul-kanna/)
-[![GitHub](https://img.shields.io/badge/GitHub-Gokulkannas-black?style=flat-square&logo=github)](https://github.com/Gokulkannas)
+<p align="left">  
+<a href="https://www.linkedin.com/in/gokul-kanna/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/kannagokul83/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/gokul-kanna/" target="_blank">
+  <img src="https://img.shields.io/badge/github-gray.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+</p>
 
 ## About Me
 

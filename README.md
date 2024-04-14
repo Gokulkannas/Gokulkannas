@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/kannagokul83/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=leetcode style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/gokul-kanna/" target="_blank">
+<a href="https://github.com/Gokulkannas" target="_blank">
   <img src="https://img.shields.io/badge/github-gray.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 </p>

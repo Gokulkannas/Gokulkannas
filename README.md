@@ -17,7 +17,7 @@
 
 ## About Me
 
-Hello! ✌️✌️ I'm Gokul Kanna, a passionate developer with experience in web development and full-stack MEAN (MongoDB, Express, Angular, Node.js) development.
+Hello! ✌️✌️ I'm Gokul Kanna, a passionate developer with experience in web development and full-stack Angular and SpringBoot development.
 
 ## LeetCode Profile
 
